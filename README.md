@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I’m an undergraduate student majoring in Computer Science and Technology at the Southern University of Science and Technology (SUSTech), Shenzhen, China. My current interests include multimodal learning, multi-turn composed image retrieval, and automated software testing.
 
 <!--
 **Tmq244/Tmq244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
